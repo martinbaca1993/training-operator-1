@@ -1,6 +1,6 @@
 # Changelog
 
-## [v1.6.0](https://github.com/kubeflow/training-operator/tree/v1.6.0) (2023-03-21)
+## [v1.6.0](https://github.com/kubeflow/training-operator/tree/v1.6.0) (2023-08-19)
 
 Note: Since scheduler-plugins has changed API from `sigs.k8s.io` with the `x-k8s.io`, future releases of training operator(v1.7+) will not support scheduler-plugins v0.24.x or lower. Related: [\#1769](https://github.com/kubeflow/training-operator/issues/1769) 
 
